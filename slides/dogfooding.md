@@ -1,3 +1,8 @@
+<!-- .slide: data-background="img/bg-3.png" -->
+## Lessons learned
+
+---
+
 <!-- .slide: data-background="img/dogs-367602768_0416127f3e_b.jpg" -->
 #### Eating our own dog food
 
